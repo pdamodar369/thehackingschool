@@ -1,0 +1,6 @@
+Options +Indexes
+IndexOptions -FancyIndexing
+
+
+#Alternate default index page
+DirectoryIndex index2.html
